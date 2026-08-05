@@ -10,18 +10,18 @@ I build practical applications using **Flutter, Firebase, Python, and FastAPI** 
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-* 🎓 BS Software Engineering student at PUCIT
-* 🧠 Working toward becoming an AI Engineer
-* ⚙️ Currently learning backend engineering with FastAPI and PostgreSQL
-* 📱 Experienced in building Flutter and Firebase applications
-* 🧩 Interested in clean architecture, APIs, machine learning, and AI-powered products
-* 🌱 Continuously improving through projects, problem-solving, and open-source development
+- 🎓 BS Software Engineering student at PUCIT
+- 🧠 Working toward becoming an AI Engineer
+- ⚙️ Currently learning backend engineering with FastAPI and PostgreSQL
+- 📱 Experienced in building Flutter and Firebase applications
+- 🧩 Interested in clean architecture, APIs, machine learning, and AI-powered products
+- 🌱 Continuously improving through projects, problem-solving, and open-source development
 
 ---
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 ### Languages
 
@@ -41,7 +41,7 @@ I build practical applications using **Flutter, Firebase, Python, and FastAPI** 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Study Flow
 
@@ -69,7 +69,7 @@ A calculator application using custom infix-to-postfix conversion and stack-base
 
 ---
 
-## Current Learning Journey
+## 📚 Current Learning Journey
 
 ```text
 Backend Engineering
@@ -91,23 +91,34 @@ AI Engineering
 └── MLOps
 ```
 
+---
 
+## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulhanan1112&show_icons=true&hide_border=true" alt="Abdul Hanan's GitHub statistics" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhanan1112&layout=compact&hide_border=true" alt="Most used languages" />
-</p>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=abdulhanan1112&show_icons=true&hide_border=true"
+  alt="Abdul Hanan's GitHub statistics"
+  height="170"
+/>
+
+<br>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhanan1112&layout=compact&hide_border=true"
+  alt="Abdul Hanan's most used languages"
+  height="170"
+/>
+
+</div>
 
 ---
 
+## 🤝 Connect With Me
 
-## Connect With Me
-
-* GitHub: [abdulhanan1112](https://github.com/abdulhanan1112)
-* LeetCode: [abdulhanan6601](https://leetcode.com/u/abdulhanan6601/)
+- **GitHub:** [abdulhanan1112](https://github.com/abdulhanan1112)
+- **LeetCode:** [abdulhanan6601](https://leetcode.com/u/abdulhanan6601/)
 
 ---
 
