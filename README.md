@@ -48,21 +48,23 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Study Flow](https://github.com/abdulhanan1112/Study-Flow)** | Productivity/study planner app with Google Sign-In, Riverpod state management, and a FastAPI + PostgreSQL backend in progress | Flutter · Firebase · Riverpod · FastAPI |
-| **Weather App** | Weather forecasting app with GUI, live API integration, and multi-day forecasting | Flutter · REST APIs |
-| **Calculator App** | Early Flutter project built while learning the framework | Flutter |
+| **[Study Flow](https://github.com/abdulhanan1112/Study-Flow)** | Flutter + Firebase AI study companion — notes, tasks, PDFs, and study sessions with real-time sync, auth, cloud storage, and offline support | Flutter · Firebase · Riverpod |
+| **[FastAPI Backend Foundations](https://github.com/abdulhanan1112/fastapi-backend-foundations)** | Hands-on backend learning repo covering HTTP, REST APIs, clean architecture, PostgreSQL, authentication, testing, Docker, and deployment | Python · FastAPI · PostgreSQL |
+| **[Calculator](https://github.com/abdulhanan1112/Calculator)** | Flutter calculator app using custom infix-to-postfix conversion and stack-based expression evaluation | Flutter · C++ logic |
+| **[Network Fingerprint](https://github.com/abdulhanan1112/network_fingerprint)** | Captures and analyzes website network traffic to generate unique behavioral fingerprints using packet-level features | Python |
+| **[Virtual Quantum Lab](https://github.com/abdulhanan1112/virtual-quantum-lab)** | "Quantum Vision" — a web app for physics simulations | — |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulhanan5286&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhanan5286&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=abdulhanan5286&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=abdulhanan5286&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhanan5286&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulhanan5286&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
