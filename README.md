@@ -93,6 +93,10 @@ AI Engineering
 
 ---
 
+Here is the corrected version of your **GitHub Statistics section**. The issue was caused by **broken Markdown escaping and incorrect URL formatting (extra brackets + backslashes)**.
+
+### ✅ Fixed Version (working)
+
 ## GitHub Statistics
 
 <p align="center">
@@ -104,6 +108,33 @@ AI Engineering
 </p>
 
 ---
+
+### 🔧 What was wrong
+
+* ❌ You had `[https://...]` (Markdown link format inside `src`)
+* ❌ Extra escaping like `\&` and `\>`
+* ❌ Broken HTML rendering due to backslashes
+* ❌ Mixed Markdown + HTML incorrectly
+
+---
+
+### ✅ Tip (important)
+
+If stats still don’t show:
+
+* Make sure your GitHub username is correct ✅
+* Visit:
+  `https://github-readme-stats.vercel.app/api?username=abdulhanan1112`
+  If it loads, your README will work too.
+
+If you want, I can also upgrade this section with:
+
+* 🔥 GitHub streak stats
+* 📊 contribution graph
+* 🏆 trophies
+* 🎯 activity graph
+
+Just tell me 👍
 
 ## Connect With Me
 
