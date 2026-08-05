@@ -60,7 +60,6 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=abdulhanan1112&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=abdulhanan1112&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
