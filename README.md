@@ -1,129 +1,82 @@
-<div align="center">
+<h1 align="center">Hi, I'm Muhammad Hanan 👋</h1>
 
-# Hi, I'm Abdul Hanan 👋
+<h3 align="center">Software Engineering Student @ PUCIT | Building Full-Stack Apps with Flutter + FastAPI</h3>
 
-### Software Engineering Student | Backend Developer | Aspiring AI Engineer
-
-I build practical applications using **Flutter, Firebase, Python, and FastAPI** while developing the backend, mathematics, machine learning, and system-design foundations required for AI engineering.
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Flutter+%2B+Firebase+Developer;Learning+FastAPI+%2B+PostgreSQL;200%2B+LeetCode+Problems+Solved;Building+Real-World+Freelance-Ready+Apps" alt="Typing SVG" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-- 🎓 BS Software Engineering student at PUCIT
-- 🧠 Working toward becoming an AI Engineer
-- ⚙️ Currently learning backend engineering with FastAPI and PostgreSQL
-- 📱 Experienced in building Flutter and Firebase applications
-- 🧩 Interested in clean architecture, APIs, machine learning, and AI-powered products
-- 🌱 Continuously improving through projects, problem-solving, and open-source development
-
----
-
-## 🛠️ Technology Stack
-
-### Languages
-
-`Python` `C++` `Dart` `SQL` `JavaScript`
-
-### Backend and Databases
-
-`FastAPI` `REST APIs` `PostgreSQL` `SQLAlchemy` `Firebase` `Flask`
-
-### Mobile and Frontend
-
-`Flutter` `Riverpod` `HTML` `CSS`
-
-### Tools and Platforms
-
-`Git` `GitHub` `Linux` `Fedora` `VS Code` `Postman`
+- 🎓 Software Engineering student at **Punjab University College of Information Technology (PUCIT)**, Lahore — CGPA 3.6/4.0
+- 🛠️ Currently deep in a **50-day self-directed backend roadmap** (FastAPI, PostgreSQL, SQLAlchemy, Docker) to become freelance-ready
+- 📱 Building **Study Flow**, a Flutter productivity/study planner, and rebuilding it with a real FastAPI + PostgreSQL backend (Phase 2)
+- 🧩 Solved **200+ problems on LeetCode**, sharpening my grip on Data Structures & Algorithms in C++
+- 🐧 Develop on **Fedora Linux** with Android Studio
+- 🎯 Long-term goal: full-stack development with **practical AI integration inside apps** — not ML engineering, but shipping AI-powered features that solve real problems
+- 🌱 Also exploring Assembly (MASM), Python web scraping (BeautifulSoup), and prompt engineering on the side
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### Study Flow
+**Languages**
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Assembly](https://img.shields.io/badge/-Assembly%20(MASM)-6E4C13?style=flat-square)
 
-A Flutter and Firebase student productivity application for managing subjects, notes, tasks, study material, and user accounts with real-time cloud synchronization.
+**Frontend**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-**Technologies:** Flutter, Riverpod, Firebase Authentication, Firestore, Firebase Storage
+**Backend & Data**
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### FastAPI Backend Foundations
-
-A hands-on backend engineering repository covering REST APIs, validation, dependency injection, clean architecture, repositories, PostgreSQL, authentication, testing, Docker, and deployment.
-
-**Technologies:** Python, FastAPI, Pydantic, PostgreSQL, SQLAlchemy
-
-### Network Fingerprint
-
-A Flask-based network analysis application that captures packet-level characteristics and creates behavioural fingerprints with real-time visual insights.
-
-**Technologies:** Python, Flask, Scapy, HTML, CSS, JavaScript
-
-### Flutter Calculator
-
-A calculator application using custom infix-to-postfix conversion and stack-based expression evaluation.
-
-**Technologies:** Flutter, Dart, Data Structures
+**Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Fedora%20Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 
 ---
 
-## 📚 Current Learning Journey
+### 📂 Featured Projects
 
-```text
-Backend Engineering
-├── FastAPI and REST APIs
-├── Clean Architecture
-├── PostgreSQL and SQLAlchemy
-├── Authentication and Authorization
-├── Testing
-├── Docker
-└── Deployment
-
-AI Engineering
-├── Python
-├── Mathematics
-├── Data Structures and Algorithms
-├── Machine Learning
-├── Deep Learning
-├── Large Language Models
-└── MLOps
-```
+| Project | Description | Stack |
+|---|---|---|
+| **[Study Flow](https://github.com/abdulhanan1112/Study-Flow)** | Productivity/study planner app with Google Sign-In, Riverpod state management, and a FastAPI + PostgreSQL backend in progress | Flutter · Firebase · Riverpod · FastAPI |
+| **Weather App** | Weather forecasting app with GUI, live API integration, and multi-day forecasting | Flutter · REST APIs |
+| **Calculator App** | Early Flutter project built while learning the framework | Flutter |
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulhanan5286&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulhanan5286&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=abdulhanan1112&show_icons=true&hide_border=true"
-  alt="Abdul Hanan's GitHub statistics"
-  height="170"
-/>
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhanan1112&layout=compact&hide_border=true"
-  alt="Abdul Hanan's most used languages"
-  height="170"
-/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhanan5286&layout=compact&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+### 🌱 Currently Learning
 
-- **GitHub:** [abdulhanan1112](https://github.com/abdulhanan1112)
-- **LeetCode:** [abdulhanan6601](https://leetcode.com/u/abdulhanan6601/)
+Running a structured **50-day FastAPI backend + freelancing roadmap** (13 Jul – 31 Aug 2026) — official docs only, no tutorials for independent implementation, 45-50+ tests per project, and Dockerized deployments. Goal: launch as a Flutter + FastAPI freelancer who doesn't stop at Firebase.
 
 ---
 
-<div align="center">
+### 📫 Connect with Me
 
-### Building strong backend foundations today to create intelligent systems tomorrow.
+<p align="left">
+  <a href="https://github.com/abdulhanan5286"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+</p>
 
-</div>
+<p align="center"><i>⭐️ From a student who believes in shipping real, working software over perfect theory.</i></p>
