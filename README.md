@@ -59,12 +59,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=abdulhanan5286&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=abdulhanan5286&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=abdulhanan1112&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=abdulhanan1112&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulhanan5286&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=abdulhanan1112&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -78,7 +78,7 @@ Running a structured **50-day FastAPI backend + freelancing roadmap** (13 Jul �
 ### 📫 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/abdulhanan5286"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/abdulhanan1112"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>⭐️ From a student who believes in shipping real, working software over perfect theory.</i></p>
