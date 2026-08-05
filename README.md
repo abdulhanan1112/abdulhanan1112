@@ -91,13 +91,7 @@ AI Engineering
 └── MLOps
 ```
 
----
 
-Here is the corrected version of your **GitHub Statistics section**. The issue was caused by **broken Markdown escaping and incorrect URL formatting (extra brackets + backslashes)**.
-
-### ✅ Fixed Version (working)
-
-## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdulhanan1112&show_icons=true&hide_border=true" alt="Abdul Hanan's GitHub statistics" />
